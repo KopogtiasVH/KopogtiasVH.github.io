@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Futura';
+	font-family: 'yaenzgoy';
   src: url("./Ressource/fonts/futura.ttf") format('truetype');
 }
 
@@ -7,7 +7,7 @@ body{
   background-image: url("./ressource/hintergrund/apex-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: 'Futura';
+  font-family: 'yaenzgoy';
   align: center;
   position: relative;
 }
@@ -106,7 +106,7 @@ p {
 .black {
   background-color: black;
   color: white;
-  font-family: 'Futura';
+  font-family: 'yaenzgoy';
   width: 100%;
   margin-top: 100px;
   padding-top: 50px;
