@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'yaenzgoy';
+	font-family: 'Futura_book';
   src: url("./ressource/fonts/futura.ttf") format('truetype');
 }
 
@@ -13,7 +13,7 @@ body{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-  font-family: 'yaenzgoy';
+  font-family: 'Futura_book';
   align: center;
   position: relative;
 }
@@ -112,7 +112,7 @@ p {
 .black {
   background-color: black;
   color: white;
-  font-family: 'yaenzgoy';
+  font-family: 'Futura_book';
   width: 100%;
   margin-top: 100px;
   padding-top: 50px;
