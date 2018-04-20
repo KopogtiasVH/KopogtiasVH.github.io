@@ -115,6 +115,9 @@ p {
   font-family: 'Futura';
   width: 100%;
   margin-top: 100px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
   padding-top: 50px;
   padding-bottom: 50px;
 }
