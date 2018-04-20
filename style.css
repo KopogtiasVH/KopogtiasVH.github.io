@@ -3,10 +3,16 @@
   src: url("./ressource/fonts/futura.ttf") format('truetype');
 }
 
+html {
+	text-align: center;
+}
+
 body{
-  background-image: url("./ressource/hintergrund/apex-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+	background: url("./ressource/hintergrund/apex-bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
   font-family: 'yaenzgoy';
   align: center;
   position: relative;
