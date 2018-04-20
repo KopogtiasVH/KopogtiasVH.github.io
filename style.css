@@ -58,7 +58,7 @@ p {
 .gridtwo {
   position: relative;
   height: 200px;
-  width: 1120px;
+  width: 600px;
   align-items: center;
   justify-content: center;
   display: inline-grid;
@@ -79,7 +79,7 @@ p {
 .boxtwo {
   position: relative
   background-color: black;
-  width: 500px;
+  width: 200px;
   display: grid;
 }
 
